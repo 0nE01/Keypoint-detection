@@ -15,10 +15,11 @@ Resulte 💪
 ---
 
 
-
-
-
-
+<p align="center" width="100%">
+   <img src="https://github.com/user-attachments/assets/8f101250-b1c4-471f-b538-593c85bacee8" width="35%" height="250">
+  <img src="https://github.com/user-attachments/assets/a5149ef3-a8e3-46ec-a4b3-bcee22fe71a4"  width="35%" height="250">
+  <img src="https://github.com/user-attachments/assets/85f3b616-c158-4fea-a91e-b8d6084c5ded"  width="35%" height="250">
+</p>
 
 
 Model/Dataset ✨
