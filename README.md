@@ -27,7 +27,7 @@ Model/Dataset ✨
 ### **You can find dataset and model in link below**.
 |Model and Dataset |
 | ------------- | 
-|      [Model]()      |
+|      [Model](https://drive.google.com/file/d/1Kcor1DSmZTEJR3HKmjnNFO83qfj4Xi11/view?usp=sharing)  |
 |      [Dataset](https://universe.roboflow.com/nust-islamabad/mynewproject-1mc0q/dataset/4)  
 
 
