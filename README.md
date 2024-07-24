@@ -11,7 +11,7 @@
 ### In this repo I trained a model for detecting keypoint for fish that can be used for finding almost every keypoint in fish body and after that those keypoint can be used for anything needed. 🔥
 
 
-Resulte 💪
+Result 💪
 ---
 
 
