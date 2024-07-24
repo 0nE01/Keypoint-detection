@@ -5,10 +5,10 @@
 
 
 
-### Detecting key points in animals body were always a challenge for human being.
-### these key points can be used for body analysis or can be used for medical purposes.😎
+#### Detecting key points in animals body were always a challenge for human being.
+#### these key points can be used for body analysis or can be used for medical purposes.😎
 
-### In this repo I trained a model for detecting keypoint for fish that can be used for finding almost every keypoint in fish body and after that those keypoint can be used for anything needed. 🔥
+#### In this repo I trained a model for detecting keypoint for fish that can be used for finding almost every keypoint in fish body and after that those keypoint can be used for anything needed. 🔥
 
 
 Resulte 💪
